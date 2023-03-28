@@ -31,4 +31,4 @@ To optimize feature selection, I examined properties, distributions, and associa
 
 This study covers development and assessment of a linear regression model. Other models should be considered beyond a linear regression, as natural occurrences are generally non-linear.
 
-**To view the full paper, visit the [Notion page](https://www.notion.so/hainesdata/Modeling-California-Retail-Gas-Prices-Using-Linear-Regression-9d86d3ad466548c0a3f40caf0d47abed?pvs=4) or view in PDF.**
+**To view the full paper, visit the [Notion page](https://hainesdata.notion.site/Modeling-California-Retail-Gas-Prices-Using-Linear-Regression-9d86d3ad466548c0a3f40caf0d47abed) or view in PDF.**
