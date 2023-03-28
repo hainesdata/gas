@@ -31,4 +31,5 @@ To optimize feature selection, I examined properties, distributions, and associa
 
 This study covers development and assessment of a linear regression model. Other models should be considered beyond a linear regression, as natural occurrences are generally non-linear.
 
-To view the complete study, visit the Notion page or view in PDF.
+**To view the full paper, visit the Notion page or view in PDF.
+**
